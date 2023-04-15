@@ -1,0 +1,91 @@
+    ÿÿÿÿ          ]Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a   !Microsoft.Build.Tasks.SystemState   	fileStateSystem.Collections.Hashtable   	      System.Collections.Hashtable   
+LoadFactorVersionComparerHashCodeProviderHashSizeKeysValues   System.Collections.IComparer$System.Collections.IHashCodeProviderìQ8?   
+
+%   	   	            lC:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.dll   uC:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Xml.Linq.dll   xC:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Data.Entity.dll	   ?C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Runtime.Serialization.dll
+   tC:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Drawing.dll   ?C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Data.DataSetExtensions.dll   wC:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Deployment.dll   vC:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\Microsoft.CSharp.dll   uC:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Security.dll   zC:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Windows.Forms.dll   nC:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\mscorlib.dll   qC:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Core.dll   pC:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Xml.dll   qC:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.Data.dll      	   	   	   	   	   	   	   	   	   	   	   	   	    	!      +Microsoft.Build.Tasks.SystemState+FileState   lastModifiedassemblyNamedependenciesscatterFilesruntimeVersionframeworkName ,Microsoft.Build.Shared.AssemblyNameExtension       ;ß­¥”ÌH	"   
+
+#   
+v4.0.30319
+       ;ß­¥”ÌH	$   
+
+%   
+v4.0.30319
+       ;ß­¥”ÌH	&   
+
+'   
+v4.0.30319
+       ;ß­¥”ÌH	(   
+
+)   
+v4.0.30319
+       ;ß­¥”ÌH	*   
+
++   
+v4.0.30319
+       ;ß­¥”ÌH	,   
+
+-   
+v4.0.30319
+       ;ß­¥”ÌH	.   
+
+/   
+v4.0.30319
+       ;ß­¥”ÌH	0   
+
+1   
+v4.0.30319
+       ;ß­¥”ÌH	2   
+
+3   
+v4.0.30319
+       ;ß­¥”ÌH	4   
+
+5   
+v4.0.30319
+       ;ß­¥”ÌH	6   
+
+7   
+v4.0.30319
+       ;ß­¥”ÌH	8   
+
+9   
+v4.0.30319
+        ;ß­¥”ÌH	:   
+
+;   
+v4.0.30319
+!       ;ß­¥”ÌH	<   
+
+=   
+v4.0.30319
+>   NSystem.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"   ,Microsoft.Build.Shared.AssemblyNameExtension   asAssemblyNameasStringisSimpleName$hasProcessorArchitectureInFusionName	immutableremappedFrom   System.Reflection.AssemblyName?System.Collections.Generic.HashSet`1[[Microsoft.Build.Shared.AssemblyNameExtension, Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a]]>      	?   @   ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089   	A   $   "   	B   C   RSystem.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089   	D   &   "   	E   F   USystem.Data.Entity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089   	G   (   "   	H   I   _System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089   	J   *   "   	K   L   QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a   	M   ,   "   	N   O   `System.Data.DataSetExtensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089   	P   .   "   	Q   R   TSystem.Deployment, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a   	S   0   "   	T   U   SMicrosoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a   	V   2   "   	W   X   RSystem.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a   	Y   4   "   	Z   [   WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089   	\   6   "   	]   ^   Kmscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089   	_   8   "   	`   a   NSystem.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089   	b   :   "   	c   d   MSystem.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089   	e   <   "   	f   g   NSystem.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089   	h   ?   System.Reflection.AssemblyName   _Name
+_PublicKey_PublicKeyToken_CultureInfo	_CodeBase_Version_HashAlgorithm_HashAlgorithmForControl_StrongNameKeyPair_VersionCompatibility_Flags_HashForControl System.Version5System.Configuration.Assemblies.AssemblyHashAlgorithm5System.Configuration.Assemblies.AssemblyHashAlgorithm#System.Reflection.StrongNameKeyPair<System.Configuration.Assemblies.AssemblyVersionCompatibility#System.Reflection.AssemblyNameFlagsi   System	j   	k      l   tfile:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework/.NETFramework/v4.0/Profile/Client/System.dll	m   ?ÿÿ5System.Configuration.Assemblies.AssemblyHashAlgorithm   value__ €  ?ÿÿ?ÿÿ    
+?ÿÿ<System.Configuration.Assemblies.AssemblyVersionCompatibility   value__    ?ÿÿ#System.Reflection.AssemblyNameFlags   value__ q   
+A   ?System.Collections.Generic.HashSet`1[[Microsoft.Build.Shared.AssemblyNameExtension, Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a]]   VersionComparerCapacity  +Microsoft.Build.Shared.AssemblyNameComparer   >       	r       B   ?   s   System.Xml.Linq	t   	u      v   }file:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework/.NETFramework/v4.0/Profile/Client/System.Xml.Linq.dll	w   ?ÿÿ?ÿÿ€  ?ÿÿ?ÿÿ    
+?ÿÿ?ÿÿ   ?ÿÿ?ÿÿq   
+D   A       	|       E   ?   }   System.Data.Entity	~   	      €   €file:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework/.NETFramework/v4.0/Profile/Client/System.Data.Entity.dll	?   ~ÿÿÿ?ÿÿ€  }ÿÿÿ?ÿÿ    
+|ÿÿÿ?ÿÿ   {ÿÿÿ?ÿÿq   
+G   A       	|       H   ?   ?   System.Runtime.Serialization	?   	?      ?   ?file:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework/.NETFramework/v4.0/Profile/Client/System.Runtime.Serialization.dll	?   tÿÿÿ?ÿÿ€  sÿÿÿ?ÿÿ    
+rÿÿÿ?ÿÿ   qÿÿÿ?ÿÿq   
+J   A       	|       K   ?   ?   System.Drawing	?   	?      ?   |file:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework/.NETFramework/v4.0/Profile/Client/System.Drawing.dll	?   jÿÿÿ?ÿÿ€  iÿÿÿ?ÿÿ    
+hÿÿÿ?ÿÿ   gÿÿÿ?ÿÿq   
+M   A       	?       N   ?   ?   System.Data.DataSetExtensions	?   	?      ?   ?file:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework/.NETFramework/v4.0/Profile/Client/System.Data.DataSetExtensions.dll	?   `ÿÿÿ?ÿÿ€  _ÿÿÿ?ÿÿ    
+^ÿÿÿ?ÿÿ   ]ÿÿÿ?ÿÿq   
+P   A       	|       Q   ?   ?   System.Deployment	?   	?      ?   file:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework/.NETFramework/v4.0/Profile/Client/System.Deployment.dll	?   Vÿÿÿ?ÿÿ€  Uÿÿÿ?ÿÿ    
+Tÿÿÿ?ÿÿ   Sÿÿÿ?ÿÿq   
+S   A       	|       T   ?   ?   Microsoft.CSharp	?   	?      ?   ~file:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework/.NETFramework/v4.0/Profile/Client/Microsoft.CSharp.dll	?   Lÿÿÿ?ÿÿ€  Kÿÿÿ?ÿÿ    
+Jÿÿÿ?ÿÿ   Iÿÿÿ?ÿÿq   
+V   A       	|       W   ?   ?   System.Security	?   	?      ?   }file:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework/.NETFramework/v4.0/Profile/Client/System.Security.dll	?   Bÿÿÿ?ÿÿ€  Aÿÿÿ?ÿÿ    
+@ÿÿÿ?ÿÿ   ?ÿÿÿ?ÿÿq   
+Y   A       	|       Z   ?   ?   System.Windows.Forms	?   	?      ?   ?file:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework/.NETFramework/v4.0/Profile/Client/System.Windows.Forms.dll	?   8ÿÿÿ?ÿÿ€  7ÿÿÿ?ÿÿ    
+6ÿÿÿ?ÿÿ   5ÿÿÿ?ÿÿq   
+\   A       	?       ]   ?   ?   mscorlib	?   	?      ?   vfile:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework/.NETFramework/v4.0/Profile/Client/mscorlib.dll	?   .ÿÿÿ?ÿÿ€  -ÿÿÿ?ÿÿ    
+,ÿÿÿ?ÿÿ   +ÿÿÿ?ÿÿq   
+_   A       	?       `   ?   ?   System.Core	?   	?      ?   yfile:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework/.NETFramework/v4.0/Profile/Client/System.Core.dll	?   $ÿÿÿ?ÿÿ€  #ÿÿÿ?ÿÿ    
+"ÿÿÿ?ÿÿ   !ÿÿÿ?ÿÿq   
+b   A       	|       c   ?   ?   
+System.Xml	?   	?      ?   xfile:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework/.NETFramework/v4.0/Profile/Client/System.Xml.dll	?   ÿÿÿ?ÿÿ€  ÿÿÿ?ÿÿ    
+ÿÿÿ?ÿÿ   ÿÿÿ?ÿÿq   
+e   A       	|       f   ?   ?   System.Data	?   	?      ?   yfile:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework/.NETFramework/v4.0/Profile/Client/System.Data.dll	?   ÿÿÿ?ÿÿ€  ÿÿÿ?ÿÿ    
+ÿÿÿ?ÿÿ   ÿÿÿ?ÿÿq   
+h   A       	|       j                     k      ·z\V4à‰m   System.Version   _Major_Minor_Build	_Revision                   r   +Microsoft.Build.Shared.AssemblyNameComparer   considerRetargetableFlag    t                     u      ·z\V4à‰w   m                  |   r   ~                           ·z\V4à‰?   m                  ?                     ?      ·z\V4à‰?   m                  ?   ?    $  €  ?      $  RSA1     ÑúWÄ®Ùğ?„ª®ıéèıjì‡ûvlƒL™’?çšÙÕÜÁİš?!?r<ù€?ÄáwÆwO)?’êìä?À¥ïèñd\L“Á«™(]b,ªe,úÖ=t]o-åñ~^?Ä–=&?Ce mÀ“4MZÒ“?      ?_?:?   m                  ?   r   ?                     ?      ·z\V4à‰?   m                  ?   ?    $  €  ?      $  RSA1     ÑúWÄ®Ùğ?„ª®ıéèıjì‡ûvlƒL™’?çšÙÕÜÁİš?!?r<ù€?ÄáwÆwO)?’êìä?À¥ïèñd\L“Á«™(]b,ªe,úÖ=t]o-åñ~^?Ä–=&?Ce mÀ“4MZÒ“?      ?_?:?   m                  ?   ?    $  €  ?      $  RSA1     ÑúWÄ®Ùğ?„ª®ıéèıjì‡ûvlƒL™’?çšÙÕÜÁİš?!?r<ù€?ÄáwÆwO)?’êìä?À¥ïèñd\L“Á«™(]b,ªe,úÖ=t]o-åñ~^?Ä–=&?Ce mÀ“4MZÒ“?      ?_?:?   m                  ?   ?    $  €  ?      $  RSA1     ÑúWÄ®Ùğ?„ª®ıéèıjì‡ûvlƒL™’?çšÙÕÜÁİš?!?r<ù€?ÄáwÆwO)?’êìä?À¥ïèñd\L“Á«™(]b,ªe,úÖ=t]o-åñ~^?Ä–=&?Ce mÀ“4MZÒ“?      ?_?:?   m                  ?                     ?      ·z\V4à‰?   m                  ?   r   ?                     ?      ·z\V4à‰?   m                  ?   r   ?                     ?      ·z\V4à‰?   m                  ?                     ?      ·z\V4à‰?   m                  ?                     ?      ·z\V4à‰?   m                  
